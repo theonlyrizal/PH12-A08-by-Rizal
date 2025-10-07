@@ -1,0 +1,452 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 1,
+    "description": "TikTok is a short-form video platform that allows users to create, share, and discover 15-second videos. It features a wide range of user-generated content, including lip-syncs, dances, comedy skits, and educational videos.\n\nThe app's algorithm curates a personalized feed called the 'For You Page' based on user interactions, watch time, and engagement, helping users discover viral trends and new creators.\n\nTikTok has become a cultural phenomenon, shaping internet trends, launching careers of influencers, and providing a creative outlet for millions worldwide.",
+    "size": 128,
+    "reviews": 67400000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 20000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Instagram is a social media platform focused on photo and video sharing. Users can post images, short videos, and stories that disappear after 24 hours.\n\nThe platform provides multiple ways to interact, such as likes, comments, DMs, and Reels, which are short, engaging video clips designed to capture trends and entertain audiences.\n\nInstagram has grown into a marketing powerhouse, widely used by influencers, brands, and individuals for personal expression, promotion, and social networking worldwide.",
+    "size": 128,
+    "reviews": 28200000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Facebook is a social networking service where users can connect with friends and family, share updates, photos, and videos, and join interest groups.\n\nIt provides a platform for news, entertainment, events, and community engagement, and has integrated Messenger for seamless messaging.\n\nDespite controversies, Facebook remains one of the largest social media networks in the world, influencing culture, advertising, and digital communication.",
+    "size": 391,
+    "reviews": 22700000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "id": 4,
+    "description": "Telegram is a cloud-based instant messaging, voice, and video calling service emphasizing speed and security. It offers encrypted messaging and secret chats for privacy.\n\nThe app supports large group chats, channels, and bots, making it popular for communities, businesses, and automated services.\n\nWith cross-platform availability and fast synchronization, Telegram has become a preferred communication tool for users seeking both functionality and security.",
+    "size": 128,
+    "reviews": 28200000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 5,
+    "description": "WhatsApp Messenger is a free messaging app that allows users to send text and voice messages, make voice and video calls, and share images and documents.\n\nIt supports end-to-end encryption for privacy and works across multiple devices, making it a popular choice for personal and business communication.\n\nWhatsApp also provides group chats, status updates, and media sharing, connecting billions of users globally in a fast and secure way.",
+    "size": 128,
+    "reviews": 121300,
+    "ratingAvg": 4.7,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/YouTube_icon_%282013-2017%29.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "YouTube is a video-sharing platform where users can upload, view, and share videos. It offers a wide range of content, including music videos, tutorials, vlogs, and live streams.\n\nThe platform provides features like subscriptions, comments, and notifications to enhance user engagement.\n\nYouTube has become a major source of entertainment and information, with billions of users worldwide accessing content on various devices.",
+    "size": 128,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 7,
+    "description": "Snapchat is a multimedia messaging app known for its disappearing messages and creative filters.\n\nUsers can send photos and videos that vanish after being viewed, and apply various lenses and effects to enhance their content.\n\nThe app also features Stories, Discover content, and Snap Map, allowing users to stay connected and share moments with friends.",
+    "size": 128,
+    "reviews": 10000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Twitter_Logo_2021.svg",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "id": 8,
+    "description": "Twitter is a microblogging platform where users can post and interact with short messages called tweets.\n\nThe platform allows users to follow others, retweet content, and engage in conversations on various topics.\n\nTwitter has played a significant role in real-time news dissemination and public discourse.",
+    "size": 128,
+    "reviews": 15000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Spotify_Logo_2023.png",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "id": 9,
+    "description": "Spotify is a digital music service that gives users access to millions of songs and podcasts from around the world.\n\nIt offers personalized playlists, recommendations, and curated content based on listening habits, mood, and genre preferences.\n\nSpotify has become the leading platform for music streaming, podcast consumption, and music discovery, connecting artists with listeners globally.",
+    "size": 232,
+    "reviews": 37200000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 10,
+    "description": "Uber is a ride-hailing app that allows users to book rides from drivers using their smartphones.\n\nIt provides multiple ride options, including budget, luxury, and shared rides, with real-time tracking and fare estimates.\n\nUber has transformed urban transportation globally, offering convenience, reliability, and alternative income opportunities for drivers.",
+    "size": 433,
+    "reviews": 15700000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "title": "Figma",
+    "companyName": "Figma, Inc.",
+    "id": 11,
+    "description": "Figma is a cloud-based design tool that allows teams to create, collaborate, and share design projects in real-time.\n\nIt supports vector graphics, prototyping, and design systems, making it popular for UI/UX design and web development projects.\n\nFigma has become a staple in modern design workflows, enabling designers to work efficiently and collaboratively across multiple platforms.",
+    "size": 128,
+    "reviews": 5000000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Coursera_logo.svg",
+    "title": "Coursera",
+    "companyName": "Coursera Inc.",
+    "id": 12,
+    "description": "Coursera is an online learning platform that partners with universities and organizations to offer courses, certificates, and degrees.\n\nIt provides a wide range of subjects including business, computer science, humanities, and personal development.\n\nCoursera empowers learners worldwide to gain new skills, advance careers, and access education flexibly and affordably.",
+    "size": 128,
+    "reviews": 1000000,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Zillow_logo.png",
+    "title": "Zillow",
+    "companyName": "Zillow, Inc.",
+    "id": 13,
+    "description": "Zillow is a real estate platform for buying, selling, renting, and researching homes.\n\nIt offers property estimates, historical data, and neighborhood insights to assist users in making informed decisions.\n\nZillow has revolutionized how people access housing information, making real estate transparent and accessible.",
+    "size": 128,
+    "reviews": 500000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 50000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Canva_Logo.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd.",
+    "id": 14,
+    "description": "Canva is a graphic design platform that enables users to create presentations, social media graphics, posters, and other visual content.\n\nIt offers a drag-and-drop interface, templates, and a library of photos and elements for ease of design.\n\nCanva is widely used by individuals, students, marketers, and businesses to create professional-quality visuals quickly.",
+    "size": 128,
+    "reviews": 50000000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Google_Maps_icon_%282020%29.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 15,
+    "description": "Google Maps is a navigation app providing driving, walking, and transit directions globally.\n\nIt integrates real-time traffic, satellite imagery, and local business info to make travel planning efficient.\n\nGoogle Maps is essential for travelers, commuters, and businesses needing accurate navigation and location services.",
+    "size": 128,
+    "reviews": 50000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Netflix_2015_logo.svg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 16,
+    "description": "Netflix is a streaming platform offering a wide variety of TV shows, movies, documentaries, and original content.\n\nIt provides on-demand access to entertainment across devices and supports recommendations based on user viewing history.\n\nNetflix has transformed the media landscape, competing with traditional TV and cinemas while producing acclaimed original programming.",
+    "size": 128,
+    "reviews": 50000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Amazon_icon.svg",
+    "title": "Amazon",
+    "companyName": "Amazon Mobile LLC",
+    "id": 17,
+    "description": "Amazon is a global e-commerce platform where users can purchase products ranging from books to electronics and groceries.\n\nThe app supports one-click purchasing, wishlists, product reviews, and personalized recommendations.\n\nAmazon has reshaped online shopping by offering convenience, fast shipping, and a wide variety of products worldwide.",
+    "size": 128,
+    "reviews": 50000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/LinkedIn_logo_initials.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 18,
+    "description": "LinkedIn is a professional networking platform that allows users to connect with colleagues, recruiters, and industry peers.\n\nUsers can create profiles highlighting work experience, education, and skills, and can apply for jobs directly through the app.\n\nIt has become a key tool for professional branding, career growth, and knowledge sharing across industries globally.",
+    "size": 128,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dropbox_icon_2017.svg",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 19,
+    "description": "Dropbox is a cloud storage service that allows users to store, share, and access files from anywhere.\n\nIt supports collaboration with shared folders, links, and real-time updates on documents and media.\n\nDropbox simplifies file management and is widely used by individuals, businesses, and teams for secure, efficient cloud-based storage.",
+    "size": 128,
+    "reviews": 5000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Reddit_logo.svg",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "id": 20,
+    "description": "Reddit is a social news aggregation and discussion website where users submit content, including text posts and links.\n\nIt is organized into communities called subreddits that cover specific topics, interests, or hobbies.\n\nReddit encourages discussion, sharing, and debate, making it a hub for news, entertainment, and niche communities.",
+    "size": 128,
+    "reviews": 10000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/PayPal_logo.svg",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings, Inc.",
+    "id": 21,
+    "description": "PayPal is an online payment platform that allows users to send and receive money securely.\n\nIt supports online purchases, international transfers, and merchant services with robust security features.\n\nPayPal is widely used globally for both personal and business transactions, offering convenience, reliability, and financial safety.",
+    "size": 128,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Airbnb_Logo_Bélo.svg",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "id": 22,
+    "description": "Airbnb is a platform that allows users to list, discover, and book accommodations around the world.\n\nIt connects travelers with hosts offering homes, apartments, and unique stays, providing an alternative to traditional hotels.\n\nAirbnb has changed how people travel, offering flexible lodging options and enabling hosts to earn income from their properties.",
+    "size": 128,
+    "reviews": 5000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Zoom_Communications_Logo.svg",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 23,
+    "description": "Zoom is a video conferencing app that enables online meetings, webinars, and group messaging.\n\nIt supports HD video, screen sharing, and recording features, making it popular for remote work and virtual learning.\n\nZoom has become a staple for communication in business, education, and social interactions, connecting millions of users globally.",
+    "size": 128,
+    "reviews": 20000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 15000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Google_Drive_icon.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 24,
+    "description": "Google Drive is a cloud storage service that allows users to store, access, and share files online.\n\nIt integrates seamlessly with Google Workspace apps like Docs, Sheets, and Slides for real-time collaboration.\n\nGoogle Drive has become a key productivity tool for students, professionals, and businesses, offering secure storage and easy access from any device.",
+    "size": 128,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Discord_logo.svg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 25,
+    "description": "Discord is a communication platform designed for communities, gaming, and collaboration.\n\nIt supports voice, video, and text chat, as well as private servers, channels, and integrations with other apps.\n\nDiscord has grown into a hub for gamers, hobbyists, and professional communities, offering flexible communication and community-building tools.",
+    "size": 128,
+    "reviews": 10000000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  }
+]
