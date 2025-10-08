@@ -6,28 +6,22 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const NavBar = () => {
-  const purpleGrad = 'bg-gradient-to-br from-[#7e4de8] to-[#b167ff]';
-  const isActiveCSS = {
-    color: '#7e4de8',
-    fontWeight: 'bold',
-    textDecoration: 'underline',
-    textUnderlineOffset: '5px',
-    textDecorationThickness: '2px',
-  };
+  
+
   const navbarLinkList = (
     <>
       <li>
-        <NavLink to="/" style={({ isActive }) => (isActive ? isActiveCSS : undefined)}>
+        <NavLink to="/" className={({ isActive }) => (isActive ? 'isActiveCSS' : undefined)}>
           Home
         </NavLink>
       </li>
       <li>
-        <NavLink to="/apps" style={({ isActive }) => (isActive ? isActiveCSS : undefined)}>
+        <NavLink to="/apps" className={({ isActive }) => (isActive ? 'isActiveCSS' : undefined)}>
           Apps
         </NavLink>
       </li>
       <li>
-        <NavLink to="/installation" style={({ isActive }) => (isActive ? isActiveCSS : undefined)}>
+        <NavLink to="/installation" className={({ isActive }) => (isActive ? 'isActiveCSS' : undefined)}>
           Installations
         </NavLink>
       </li>
@@ -64,7 +58,7 @@ const NavBar = () => {
         </div>
         <Link to="/" className="flex items-center space-x-2">
           <img src={logo} className="h-10" alt="Logo" />
-          <p className={`text-transparent bg-clip-text font-bold ${purpleGrad}`}>HABLU APP STORE</p>
+          <p className='text-transparent bg-clip-text font-bold hablu-gradient'>HABLU APP STORE</p>
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
@@ -74,7 +68,7 @@ const NavBar = () => {
         <a
           target="_blank"
           href="https://github.com/theonlyrizal"
-          className={`btn text-white ${purpleGrad}`}
+          className='btn text-white hablu-gradient'
         >
           <FontAwesomeIcon icon={faGithub} size="lg" />
           <p>Contribute</p>

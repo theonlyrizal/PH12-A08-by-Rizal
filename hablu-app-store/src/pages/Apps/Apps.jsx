@@ -1,10 +1,13 @@
 import React from 'react';
-import { Outlet } from 'react-router';
+import { Outlet, useLoaderData } from 'react-router';
+import AppContainer from '../../components/AppContainer/AppContainer';
 
 const Apps = () => {
+  const apps = useLoaderData();
+
   return (
     <div>
-      <h1>I am Apps</h1>
+      <AppContainer apps={apps}></AppContainer>
       <Outlet />
     </div>
   );

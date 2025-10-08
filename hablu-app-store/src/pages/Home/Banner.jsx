@@ -5,10 +5,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const Banner = () => {
   return (
-    <div className="flex-col items-center justify-center bg=[#f5f5f5] mt-20">
+    <div className="flex-col items-center justify-center bg-[c2c2c2] mt-20">
       <h1 className="text-center text-6xl font-bold w-1/2 m-auto">
         We Build{' '}
-        <span className="text-transparent bg-clip-text font-bold bg-gradient-to-br from-[#7e4de8] to-[#9f69f0]">
+        <span className="text-transparent bg-clip-text font-bold hablu-gradient">
           Productive
         </span>{' '}
         Apps

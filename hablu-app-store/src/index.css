@@ -5,6 +5,14 @@
   font-family: Montserrat;
   font-weight: 500;
 }
+
+.hablu-gradient {
+  @apply bg-gradient-to-br from-[#7e4de8] to-[#9f69f0];
+}
+
+.isActiveCSS {
+  @apply text-[#7e4de8] font-bold underline underline-offset-[5px] decoration-2;
+}
 /*
 a {
   font-weight: 500;

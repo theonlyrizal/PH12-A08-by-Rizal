@@ -6,7 +6,6 @@ import Footer from '../../components/Footer/Footer';
 const Root = () => {
   return (
     <div>
-      <h1>I am Root</h1>
       <NavBar/>
       <Outlet/>
       <Footer/>
