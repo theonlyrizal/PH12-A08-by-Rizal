@@ -15,8 +15,9 @@ const Apps = () => {
       </div>
       <div className="px-16 my-10">
         <p className="text-2xl font-bold">
-          <span>{apps.length}</span> Apps Found
+          <span>({apps.length})</span> Apps Found
         </p>
+        
       </div>
       <AppContainer apps={apps}></AppContainer>
     </div>

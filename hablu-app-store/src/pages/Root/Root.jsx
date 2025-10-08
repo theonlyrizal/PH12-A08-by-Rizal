@@ -5,10 +5,10 @@ import Footer from '../../components/Footer/Footer';
 
 const Root = () => {
   return (
-    <div>
-      <NavBar/>
-      <Outlet/>
-      <Footer/>
+    <div className="flex-col justify-between">
+      <NavBar />
+      <Outlet />
+      <Footer className="justify-end" />
     </div>
   );
 };

@@ -36,10 +36,7 @@ export const router = createBrowserRouter([
         loader: async ({ params }) => {
           const res = await axios.get('/data/apps.json');
           const apps = res.data;
-
-          // Convert URL param to number
           const app = apps.find((pick) => pick.id === Number(params.id));
-
           if (!app) throw new Response('Not Found', { status: 404 });
           return app;
         },
