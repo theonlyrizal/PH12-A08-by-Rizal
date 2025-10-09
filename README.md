@@ -22,7 +22,8 @@ A modern, responsive React web app that showcases and manages a collection of ap
 
 
 - **React.js** – Component-based UI  
-- **React Router** – Routing and data loading  
+- **React Router** – Routing and data loading
+- **Recharts** - Visual Demonstrations 
 - **Tailwind CSS** – Modern utility-first styling  
 - **DaisyUI** – UI component library  
 - **Font Awesome** – Icons  
