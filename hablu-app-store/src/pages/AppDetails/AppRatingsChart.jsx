@@ -19,7 +19,7 @@ const AppRatingsChart = ({ ratings }) => {
           <XAxis type="number" domain={[0, ratings[4]['count']+ratings[4]['count']*0.1]}/>
           <YAxis type="category" dataKey="name" reversed/>
           <Tooltip />
-          <Bar dataKey="count" fill="#FF8811" radius={[6, 6, 0, 0]} />
+          <Bar dataKey="count" fill="#FF8811" radius={[0, 10, 10, 0]} />
         </BarChart>
       </ResponsiveContainer>
     </div>
