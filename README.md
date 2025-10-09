@@ -2,6 +2,9 @@
 
 A modern, responsive React web app that showcases and manages a collection of apps — featuring app installation, sorting, and detailed app statistics. Built as part of a web development learning project, the Hablu App Store mimics the structure and interactivity of a real app marketplace.
 
+## Preview - [Hablu App Store Preview](https://hablu-app-store-by-theonlyrizal.netlify.app/)
+
+
 ---
 
 ## 🧩 Features
@@ -39,7 +42,7 @@ Make sure you have **Node.js (v18+)** and **npm** installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/hablu-app-store.git
+git clone https://github.com/theonlyrizal/PH12-A08-by-Rizal.git
 
 # Navigate to the project directory
 cd hablu-app-store
