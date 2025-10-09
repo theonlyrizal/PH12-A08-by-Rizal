@@ -1,0 +1,71 @@
+Folder PATH listing for volume Bruh!
+Volume serial number is BCE6-FF63
+D:.
+¦   index.css
+¦   main.jsx
+¦   ree.txt
+¦   
++---assets
+¦       App-Error.png
+¦       demo-app (1).webp
+¦       demo-app (2).webp
+¦       demo-app (3).webp
+¦       demo-app (4).webp
+¦       demo-app (5).webp
+¦       demo-app (6).webp
+¦       error-404.png
+¦       hero.png
+¦       icon-downloads.png
+¦       icon-ratings.png
+¦       icon-review.png
+¦       logo.png
+¦       
++---components
+¦   +---AppCard
+¦   ¦       AppCard.jsx
+¦   ¦       
+¦   +---AppContainer
+¦   ¦       AppContainer.jsx
+¦   ¦       
+¦   +---Footer
+¦   ¦       Footer.jsx
+¦   ¦       
+¦   +---InstalledCard
+¦   ¦       InstalledCard.jsx
+¦   ¦       
+¦   +---InstalledContainer
+¦   ¦       InstalledContainer.jsx
+¦   ¦       
+¦   +---NavBar
+¦           NavBar.jsx
+¦           
++---pages
+¦   +---AppDetails
+¦   ¦       AppDetails.jsx
+¦   ¦       AppRatingsChart.jsx
+¦   ¦       AppStats.jsx
+¦   ¦       
+¦   +---AppNotFound
+¦   ¦       AppNotFound.jsx
+¦   ¦       
+¦   +---Apps
+¦   ¦       Apps.jsx
+¦   ¦       
+¦   +---ErrorPage
+¦   ¦       ErrorPage.jsx
+¦   ¦       
+¦   +---Home
+¦   ¦       Banner.jsx
+¦   ¦       Home.jsx
+¦   ¦       States.jsx
+¦   ¦       TrendingApps.jsx
+¦   ¦       
+¦   +---Installation
+¦   ¦       Installation.jsx
+¦   ¦       
+¦   +---Root
+¦           Root.jsx
+¦           
++---routes
+        routes.jsx
+        

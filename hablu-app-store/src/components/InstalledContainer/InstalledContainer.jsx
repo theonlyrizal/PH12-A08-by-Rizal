@@ -1,9 +1,12 @@
 import React from 'react';
+import InstalledCard from '../InstalledCard/InstalledCard';
 
-const InstalledContainer = () => {
+const InstalledContainer = ({ installedApps }) => {
   return (
-    <div>
-      <h1>I am InstalledContainer Component</h1>
+    <div className="px-5 md:px-16">
+      {installedApps.map((installedApp) => {
+        return <InstalledCard key={installedApp.id} installedApp={installedApp} />;
+      })}
     </div>
   );
 };

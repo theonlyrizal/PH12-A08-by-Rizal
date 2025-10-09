@@ -1,13 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router';
-import { NavLink } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import logo from '../../assets/logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const NavBar = () => {
-  
-
   const navbarLinkList = (
     <>
       <li>
@@ -29,10 +26,10 @@ const NavBar = () => {
   );
 
   return (
-    <div className="navbar bg-base-100 shadow-sm px-16 sticky top-0 z-10">
-      <div className="navbar-start">
-        <div className="dropdown">
-          <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+    <div className="navbar bg-base-100 shadow-sm px-8 md:px-16 sticky top-0 z-10">
+      <div className="flex items-center justify-between w-full lg:w-auto">
+        <div className="dropdown lg:hidden">
+          <div tabIndex={0} role="button" className="btn btn-ghost">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-5 w-5"
@@ -40,13 +37,7 @@ const NavBar = () => {
               viewBox="0 0 24 24"
               stroke="currentColor"
             >
-              {' '}
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth="2"
-                d="M4 6h16M4 12h8m-8 6h16"
-              />{' '}
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" />
             </svg>
           </div>
           <ul
@@ -57,19 +48,17 @@ const NavBar = () => {
           </ul>
         </div>
         <Link to="/" className="flex items-center space-x-2">
-          <img src={logo} className="h-10" alt="Logo" />
+          <img src={logo} className="h-10 max-w-full" alt="Logo" />
           <p className='text-transparent bg-clip-text font-bold hablu-gradient'>HABLU APP STORE</p>
         </Link>
       </div>
-      <div className="navbar-center hidden lg:flex">
+
+      <div className="navbar-center hidden lg:flex flex-grow justify-center">
         <ul className="menu menu-horizontal px-1 font-bold">{navbarLinkList}</ul>
       </div>
-      <div className="navbar-end">
-        <a
-          target="_blank"
-          href="https://github.com/theonlyrizal"
-          className='btn text-white hablu-gradient'
-        >
+
+      <div className="navbar-end hidden md:flex justify-end w-full lg:w-auto mt-2 lg:mt-0">
+        <a target="_blank" href="https://github.com/theonlyrizal" className='btn text-white hablu-gradient'>
           <FontAwesomeIcon icon={faGithub} size="lg" />
           <p>Contribute</p>
         </a>
