@@ -7,6 +7,7 @@ const Root = () => {
   return (
     <div className="flex-col justify-between w-full min-h-screen overflow-x-hidden">
       <NavBar />
+      <div className='h-20'></div>
       <Suspense fallback={<span className="loading loading-spinner loading-xl"></span>}>
         <Outlet />
       </Suspense>
