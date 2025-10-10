@@ -12,7 +12,7 @@ const AppNotFound = () => {
       <h2 className="text-2xl font-semibold">An App that was never here</h2>
       <p className="text-gray-500">Look for your app in the Apps library</p>
       <div className="flex space-x-2">
-        <Link to={-1} className="btn hablu-gradient text-white">
+        <Link to='/apps' className="btn hablu-gradient text-white">
           <FontAwesomeIcon icon={faTableCellsLarge} />
           Back to Apps
         </Link>
