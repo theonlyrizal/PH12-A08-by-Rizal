@@ -17,7 +17,7 @@ const AppDetails = () => {
       <hr className="border-gray-300 my-10" />
 
       <div className="pb-10 space-y-5 h-auto md:h-60">
-        <h1 className="text-[#001931] text-xl font-bold">Description</h1>
+        <h1 className="text-[#777777] text-xl font-bold">Description</h1>
         <p className="text-gray-500">{description}</p>
       </div>
 
