@@ -1,16 +1,72 @@
-# React + Vite
+````markdown
+# hablu-app-store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This folder contains the Hablu App Store React application (built with Vite). It is a small marketplace demo used to display apps, view details with charts, and install/uninstall apps persisted in localStorage.
 
-Currently, two official plugins are available:
+## Live demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://hablu-app-store-by-theonlyrizal.netlify.app/
 
-## React Compiler
+## Quick start
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```powershell
+cd hablu-app-store
+npm install
+npm run dev
+```
+````
 
-## Expanding the ESLint configuration
+Open http://localhost:5173 in your browser.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Main technologies
+
+- React 19
+- Vite
+- React Router
+- Tailwind CSS + DaisyUI
+- Recharts
+- react-toastify
+
+## Notable dependencies (from package.json)
+
+- `react`, `react-dom`
+- `react-router`, `react-router-dom`
+- `tailwindcss`, `daisyui`, `@tailwindcss/vite`
+- `recharts`
+- `axios`
+- `react-toastify`
+- `numeral`
+- `@fortawesome/*` (icons)
+- `@uidotdev/usehooks` (for `useLocalStorage`)
+
+## Features
+
+- Browse all apps (data loaded from `public/data/apps.json`)
+- App details page with statistics and charts
+- Install / Uninstall apps (persisted via localStorage)
+- Search and filter apps
+- Responsive design
+
+## Screenshots
+
+If you'd like to add a screenshot, place `screenshot.png` inside `hablu-app-store/public/` and reference it here, e.g.:
+
+![App screenshot](/screenshot.png)
+
+## How routing handles missing apps
+
+When visiting `/apps/:id` if the app id is not present in `public/data/apps.json` the loader returns a not-found indicator and `AppDetails.jsx` renders `AppNotFound.jsx`.
+
+If you see the `ErrorPage` instead of `AppNotFound`, it usually means an error occurred while rendering `AppNotFound` (for example, a missing import). Fixing the runtime error will cause the intended not-found page to render.
+
+## Contributing
+
+Small fixes and improvements welcome — open a PR against `main`.
+
+## License
+
+Licensed under terms provided by the project owner.
+
+```
+
+```
