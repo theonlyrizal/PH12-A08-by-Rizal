@@ -1,4 +1,4 @@
-````markdown
+
 # hablu-app-store
 
 This folder contains the Hablu App Store React application (built with Vite). It is a small marketplace demo used to display apps, view details with charts, and install/uninstall apps persisted in localStorage.
@@ -14,7 +14,7 @@ cd hablu-app-store
 npm install
 npm run dev
 ```
-````
+
 
 Open http://localhost:5173 in your browser.
 
@@ -47,11 +47,6 @@ Open http://localhost:5173 in your browser.
 - Search and filter apps
 - Responsive design
 
-## Screenshots
-
-If you'd like to add a screenshot, place `screenshot.png` inside `hablu-app-store/public/` and reference it here, e.g.:
-
-![App screenshot](/screenshot.png)
 
 ## How routing handles missing apps
 
