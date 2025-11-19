@@ -1,9 +1,7 @@
-import React, { createContext } from 'react';
+import React from 'react';
 import { useLocalStorage } from '@uidotdev/usehooks';
 import { ToastContainer, toast } from 'react-toastify';
-
-export const AppInstallContext = createContext();
-
+import { AppInstallContext } from './AppInstallContext';
 const AppInstallProvider = ({ children }) => {
   const [installedApps, setInstalledApps] = useLocalStorage('installedApps', []);
 
